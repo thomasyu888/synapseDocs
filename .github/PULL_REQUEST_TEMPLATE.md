@@ -1,8 +1,4 @@
-DELETE THIS TEMPLATE BEFORE SUBMITTING
+- [ ] Did you reference the issue being addressed by number? (fixes #xxxx)
+- [ ] Did you examine your build locally (instructions [here](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)?
+- [ ] Did you add a good description about your changes or additions?
 
-In order to have a good experience with our community, we recommend that you read the contributing guidelines for making a PR.
-
-PR Checklist:
-[ ] Do you have a github issue linking to this PR?
-
-[ ] Have you built your branch locally?
