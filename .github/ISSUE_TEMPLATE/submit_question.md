@@ -7,10 +7,10 @@ label: "help wanted"
 
 ---
 
-- [ ] I have looked through the synapseDocs for my related question.
+- [ ] I have looked through [Synapse Documentation](https://docs.synapse.org/) for my question.
 
 ---
 
 #### Question about synapseDocs
 
-Ask us about Synapse or synapseDocs
+Ask us about [Synapse](https://www.synapse.org/) or [Synapse Documentation](https://docs.synapse.org/).
