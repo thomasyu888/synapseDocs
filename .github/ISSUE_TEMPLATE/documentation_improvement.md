@@ -7,15 +7,15 @@ labels: "enhancement"
 
 ---
 
-#### Location of the documentation
+#### Location of the Documentation
 
-[this should provide the location of the documentation, e.g. "_articles/access_controls.md" or the URL of the documentation, e.g. "https://docs.synapse.org/articles/access_controls.html" or let us know if it is missing!] 
+[Provide the location of the documentation, e.g. "_articles/access_controls.md" or the URL of the documentation, e.g. "https://docs.synapse.org/articles/access_controls.html". Alternatively, let us know if it is missing!] 
 
-#### Documentation problem
+#### Problem
 
-[this should provide a description of what documentation you believe needs to be fixed/improved]
+[Provide a description of the documentation to be fixed or improved.]
 
-#### Suggested fix for documentation
+#### Suggested Fix
 
-[this should explain the suggested fix and **why** it's better than the existing documentation]
+[Explain the suggested fix and **why** it is an improvement.]
 
