@@ -7,16 +7,15 @@ labels: "bug"
 
 ---
 
-- [ ] I have checked that this issue has not already been reported.
+- [ ] I have checked the existing issues to confirm it has not already been reported.
 
-- [ ] I have confirmed this bug exists on the latest version of synapseDocs.
+- [ ] I have confirmed this bug exists on the latest version of [Synapse Documentation](https://docs.synapse.org/).
 
 
 ---
 
-#### Problem description
+#### Problem Description
 
-[this should explain **why** the current behaviour is a problem and why the expected output is a better solution]
+[Explain **why** the current behaviour is a problem and why the proposed change is a better solution.]
 
-#### Expected
-
+#### Proposed Change
